@@ -1,0 +1,9 @@
+{
+  "name": "ultralight",
+  "version": "0.0.0",
+  "main": "index.js",
+  "description": "HTML UI engine",
+  "repository": "https://github.com/ultralight-ux/ultralight.git",
+  "homepage": "https://ultralig.ht/",
+  "author": "Adam Simmons <hi@adamjsimmons.com>"
+}
